@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jaison
-- 👀 I’m interested in C# Development
+- 👀 I’m interested in .Net Development
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
